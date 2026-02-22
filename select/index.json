@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "SSAW",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-22T12:33:39.859175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SSAW",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_SSAW_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SSAW",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_SSAW_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SSAW",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_SSAW_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SSAW Japan Tour",
+      "artist": "シュノーケル",
+      "has_synced": true,
+      "path": "select/04_SSAW_Japan_Tour_シュノーケル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "브라보 마이 라이프 (Bravo, My Life) (You Are SSaW Beautiful)",
+      "artist": "SSaW",
+      "has_synced": false,
+      "path": "select/05_브라보_마이_라이프_(Bravo,_My_Life)_(You_Are_SSaW_Beautiful)_SSaW.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SSAW Japan Tour",
+      "artist": "Snorkel",
+      "has_synced": true,
+      "path": "select/06_SSAW_Japan_Tour_Snorkel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SSAW",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_SSAW_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SSAW",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_SSAW_東京事変.txt"
+    }
+  ]
+}
